@@ -1,0 +1,9 @@
+name: APIPlugin
+version: '${project.version}'
+main: me.aklusa.apiplugin.APIPlugin
+api-version: 1.17
+prefix: API
+load: STARTUP
+authors: [ aklusa ]
+description: Hyperlink Licensing API Plugin
+website: hyperlink-network.com
